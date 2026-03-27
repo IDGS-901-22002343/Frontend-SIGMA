@@ -1,0 +1,8 @@
+C:\Users\Perfil\music\Backend-SIGMA\obj\Debug\net10.0\Backend-SIGMA.csproj.AssemblyReference.cache
+C:\Users\Perfil\music\Backend-SIGMA\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Perfil\music\Backend-SIGMA\obj\Debug\net10.0\Backend-SIGMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perfil\music\Backend-SIGMA\obj\Debug\net10.0\Backend-SIGMA.AssemblyInfoInputs.cache
+C:\Users\Perfil\music\Backend-SIGMA\obj\Debug\net10.0\Backend-SIGMA.AssemblyInfo.cs
+C:\Users\Perfil\music\Backend-SIGMA\obj\Debug\net10.0\Backend-SIGMA.csproj.CoreCompileInputs.cache
+C:\Users\Perfil\music\Backend-SIGMA\obj\Debug\net10.0\Backend-SIGMA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Perfil\music\Backend-SIGMA\obj\Debug\net10.0\Backend-SIGMA.MvcApplicationPartsAssemblyInfo.cache
